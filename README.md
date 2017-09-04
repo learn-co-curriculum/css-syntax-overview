@@ -64,9 +64,9 @@ Thankfully, this problem is solved with the `id` attribute. You can add an `id` 
 <br>
      I'm a teacher at The Flatiron School.
     </p>
-<p>
-  I've been teaching at The Flatiron School for four years. Programming was an early passion of mine and I started coding on TI-83 calculators in BASIC when I was in middle school. 
   <p>
+  I've been teaching at The Flatiron School for four years. Programming was an early passion of mine and I started coding on TI-83 calculators in BASIC when I was in middle school. 
+  </p>
   </body>
 </html>
 ```
